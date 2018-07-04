@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.uport-project:uport-android-signer-0.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/uport-android-signer-0.1.1.aar/d3a9255172760b7ab3fe98b3f3e61767/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/uport-android-signer-0.1.1.aar/d3a9255172760b7ab3fe98b3f3e61767/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.uport-project/uport-android-signer/0.1.1/ff0d32822a64b6cd8835be09c5266c1c73d9e58b/uport-android-signer-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

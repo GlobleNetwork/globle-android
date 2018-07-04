@@ -9,7 +9,7 @@ android {
     buildToolsVersion build_tools_version
 
     defaultConfig {
-        applicationId "com.globle.globle_android"
+        applicationId "me.uport.sdk.demoapp"
         minSdkVersion min_sdk_version
         targetSdkVersion target_sdk_version
         versionCode 1
