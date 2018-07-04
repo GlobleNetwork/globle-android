@@ -4,6 +4,9 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
+
+def uport_sdk_version = "v0.0.2"
+
 android {
     compileSdkVersion 27
     defaultConfig {
@@ -29,4 +32,8 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    // core SDK
+    implementation "com.github.uport-project.uport-android-sdk:sdk:$uport_sdk_version"
+    // required for meta transaction fueling
+    implementation "com.github.uport-project.uport-android-sdk:fuelingservice:$uport_sdk_version"
 }
